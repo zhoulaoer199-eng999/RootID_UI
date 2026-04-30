@@ -1,0 +1,13 @@
+{
+  "name": "rootid-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RootID 1.0 minimal WebSocket relay",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
